@@ -64,17 +64,30 @@ Data cleaning and transformation were performed using **Power Query** in Power B
 
 ## 🖼️ Dashboard Preview
 
+### 📊 **Dataset Preview**
+![Dataset Preview](Tcs/PREVIEW/DATASETPREVIEW.png)
+
+---
+
 ### 📸 **Overall Dashboard View**
-![Dashboard Overview](images/tcs_dashboard_overview.png)
+![Overall Dashboard](Tcs/PREVIEW/OverallDashboard.png)
+![Overall Dashboard 2](Tcs/PREVIEW/OverallDashboard2.png)
 
-### 🧭 **Month-wise Trend**
-![Monthly Trend](images/tcs_month_trend.png)
+---
 
-### 📊 **Quarterly Analysis**
-![Quarterly Insights](images/tcs_quarter_analysis.png)
+### 🧭 **Trend by Year**
+![Trend by Year](Tcs/PREVIEW/TRENDBYYEAR.png)
 
-### 🔍 **Volume Pattern**
-![Volume Analysis](images/tcs_volume_chart.png)
+---
+
+### 📈 **Quarterly Analysis**
+![Quarterly Analysis](Tcs/PREVIEW/QuarterlyAnalysis.png)
+
+---
+
+### 💡 **Insights Dashboard**
+![Insights](Tcs/PREVIEW/insights.png)
+![Insights 2](Tcs/PREVIEW/insights2.png)
 
 ---
 
