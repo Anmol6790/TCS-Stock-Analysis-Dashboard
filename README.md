@@ -65,7 +65,7 @@ Data cleaning and transformation were performed using **Power Query** in Power B
 ## 🖼️ Dashboard Preview
 
 ### 📊 **Dataset Preview**
-![Dataset Preview](Tcs/PREVIEW/DATASETPREVIEW.png)
+![Dataset Preview](Tcs/PREVIEW/DATASETPREVIEW)
 
 ---
 
