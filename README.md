@@ -70,24 +70,24 @@ Data cleaning and transformation were performed using **Power Query** in Power B
 ---
 
 ### 📸 **Overall Dashboard View**
-![Overall Dashboard](Tcs/PREVIEW/OverallDashboard.png)
-![Overall Dashboard 2](Tcs/PREVIEW/OverallDashboard2.png)
+![Overall Dashboard](Tcs/PREVIEW/OverallDashboard)
+![Overall Dashboard 2](Tcs/PREVIEW/OverallDashboard2)
 
 ---
 
 ### 🧭 **Trend by Year**
-![Trend by Year](Tcs/PREVIEW/TRENDBYYEAR.png)
+![Trend by Year](Tcs/PREVIEW/TRENDBYYEAR)
 
 ---
 
 ### 📈 **Quarterly Analysis**
-![Quarterly Analysis](Tcs/PREVIEW/QuarterlyAnalysis.png)
+![Quarterly Analysis](Tcs/PREVIEW/QuarterlyAnalysis)
 
 ---
 
 ### 💡 **Insights Dashboard**
-![Insights](Tcs/PREVIEW/insights.png)
-![Insights 2](Tcs/PREVIEW/insights2.png)
+![Insights](Tcs/PREVIEW/insights)
+![Insights 2](Tcs/PREVIEW/insights2)
 
 ---
 
